@@ -74,7 +74,7 @@
         }
         //Sino, el valor es en libras y es el mismo
         else{
-          $this->setEuros($cantidad*1);
+          $this->setLibras($cantidad*1);
         }
       }
       //La moneda origen es el dólar
